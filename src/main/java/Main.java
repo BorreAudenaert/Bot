@@ -1,6 +1,6 @@
-package com.DI4MONDTOOL;
+package src.main.java;
 
-import com.DI4MONDTOOL.Utils.StaticValues;
+import src.main.java.Utils.StaticValues;
 import com.sedmelluq.discord.lavaplayer.player.AudioLoadResultHandler;
 import com.sedmelluq.discord.lavaplayer.player.AudioPlayerManager;
 import com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager;
